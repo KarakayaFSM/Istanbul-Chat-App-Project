@@ -6,6 +6,12 @@ anlık bir mesajlaşma uygulamasıdır.
 # Özellikler
 
  - **Sade Arayüz**
+ <p align="center">
+    <img
+      src="https://user-images.githubusercontent.com/32556786/53767739-bc5ba180-3ee7-11e9-92ca-0743fd54ecee.png"
+      width="400"
+    />
+</p>
  - Çoklu Kullanıcı Desteği
  - Kullanıcı Adı, Şifre ve Eposta ile Hızlı Kayıt
  - Eposta ve Doğrulama Kodu ile **Şifre Sıfırlama Hizmeti**
